@@ -9,9 +9,9 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### For Login into the app use data saved in the static folder of this repo.
+### `For Login into the app use data saved in the static folder of this repo.`
 
-### dummyLoginCredials File
+### `dummyLoginCredials File`
 
-userName : eve.holt@reqres.in
-password : welcome
+## userName : eve.holt@reqres.in
+## password : welcome
